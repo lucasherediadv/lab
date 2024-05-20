@@ -1,4 +1,4 @@
 ## Lab
 
-Collection of projects, scripts, exercises and notes wich I use for learning, exploring and gaining hands-on experience.
+Collection of projects, scripts, exercises and notes wich I use for learning, exploring and gaining hands-on experience in different technologies.
 
